@@ -9,6 +9,11 @@ const movies=["https://www.imdb.com/title/tt0419058/?ref_=nv_sr_srsg_0",
 "https://www.imdb.com/title/tt0454921/?ref_=tt_sims_tt",
 "https://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_1",
 "https://www.imdb.com/title/tt7430722/?ref_=fn_al_tt_2",
+"https://www.imdb.com/title/tt4574334/?ref_=fn_al_tt_1",
+"https://www.imdb.com/title/tt0234000/?ref_=fn_al_tt_1",
+"https://www.imdb.com/title/tt0248126/?ref_=fn_al_tt_1",
+"https://www.imdb.com/title/tt0110076/?ref_=nv_sr_srsg_0",
+"https://www.imdb.com/title/tt0105599/?ref_=fn_al_tt_1",
 ];
 (async() => {
     let imdbData=[]
